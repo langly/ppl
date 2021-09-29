@@ -29,6 +29,7 @@ I'll read a lot more, and I will continue to update these links as I remember / 
 ## Weather
 
 * [AC 00-6B - Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/1029851) This is required reading for the written.
+* [AC 00-45 - Aviation Weather Systems](https://www.faa.gov/documentlibrary/media/advisory_circular/ac_00-45h.pdf) Explains all of the weather charts / metars you will encounter. Worthwhile browsing through so that no chart is unfamiliar
 
 ## Weights and Balance
 
