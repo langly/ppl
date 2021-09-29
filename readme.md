@@ -20,7 +20,7 @@ I'll read a lot more, and I will continue to update these links as I remember / 
 ## Books
 
 * [Mountain Flying Bible](https://www.mountainflying.com/products/mfbr_info.html) Gives a bit more practical approach to flying.
-* [Stick and Rudder](https://www.amazon.com/Stick-Rudder-Explanation-Art-Flying/dp/0070362408) This I believe it the actual bible.
+* [Stick and Rudder](https://www.amazon.com/Stick-Rudder-Explanation-Art-Flying/dp/0070362408) Old but good one. However, a very feel good book, more than technical.
 
 ## Engine Systems.
 
