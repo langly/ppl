@@ -22,9 +22,10 @@ I'll read a lot more, and I will continue to update these links as I remember / 
 * [Mountain Flying Bible](https://www.mountainflying.com/products/mfbr_info.html) Gives a bit more practical approach to flying.
 * [Stick and Rudder](https://www.amazon.com/Stick-Rudder-Explanation-Art-Flying/dp/0070362408) Old but good one. However, a very feel good book, more than technical.
 
-## Engine Systems.
+## Engine/ Systems.
 
 * [Smarter every day : Carburetor](https://www.youtube.com/watch?v=toVfvRhWbj8&ab_channel=SmarterEveryDay) Interesting youtube video about carburetors
+* [Antennas](https://www.aopa.org/training-and-safety/students/presolo/special/antennas) Some pictures of the antennas you can expect to find on your plane
 
 ## Weather
 
