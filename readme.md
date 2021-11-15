@@ -42,5 +42,5 @@ I'll read a lot more, and I will continue to update these links as I remember / 
 * [Compass Errors](https://www.boldmethod.com/blog/learn-to-fly/aircraft-systems/how-your-magnetic-compass-works/) On compass errors. 
 
 ## Radio & Communication
-* [ ADS-B Protocool ](https://mode-s.org/decode/misc/preface.html)
+* [ ADS-B Protocool ](https://mode-s.org/decode/misc/preface.html) A book on the ADS-B protocol
 
